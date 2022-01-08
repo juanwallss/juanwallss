@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanwallss
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java & javascript..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
