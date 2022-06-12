@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @juanwallss
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning java & javascript..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a JR full-stack web Developer
+- 🌱 Open to learn new technologies and currently working with ReactJs and NodeJs
 
 <!---
 juanwallss/juanwallss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
